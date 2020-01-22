@@ -185,10 +185,6 @@ Current code coverage is 89%. Jacoco is used to get the coverage report as below
 
 ![Coverage](https://i.ibb.co/MGkzQzc/Screenshot-2019-11-11-at-3-37-57-PM.png)
 
-##JavaDoc 
-
-Javadoc is present for the code root path [javadoc/index.html](javadoc/index.html)
-
 ## Built With
 
 * [Gradle](https://gradle.org/) - Java project build tool
